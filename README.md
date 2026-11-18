@@ -18,7 +18,7 @@ A centralized maintenance platform that connects residents, administrators, and 
 
 <br />
 
-**Live Demo:** Coming Soon
+**Live Demo:** https://fixora-nine-gilt.vercel.app/
 
 </div>
 
